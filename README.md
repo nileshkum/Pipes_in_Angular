@@ -1,5 +1,13 @@
 # Pipes in Angular
-
+## Features:
+### Filter
+Filter based on status
+### Reverse
+Reverse the string of TYPE
+### Shorten
+Shorten the decription
+### Sort List
+Sort the list by its name
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
